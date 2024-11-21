@@ -1,2 +1,2 @@
 # ML_Clustering_EDA_CustomerSegmentation
- Additionally, an ANOVA test examines spending habits gr
+An EDA and Machine Learning Clustering exercise on the Mall Customer Segmentation dataset demonstrating the use of KMeans Clustering and the Elbow Method. The clustering algorithm successfully segments the customer base into groups distinguishable by their annual income and spending score. Additionally, an ANOVA hypothesis test examines the differences in the medians of features (Age, Annual Income, Spending Score) as differentiated by gender.
